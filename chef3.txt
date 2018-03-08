@@ -1,0 +1,5 @@
+mkdir cookbooks
+chef generate cookbook cookbooks/workstation
+tree cookbooks/workstation
+metadata.rb is file which contains basic info
+mv setup.rb cookbooks/workstation/recipes

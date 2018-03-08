@@ -1,0 +1,24 @@
+to monitor another host
+vi /etc/nagios3/nagios.cfg
+   admin_email=selenium.saikrishna@gmail.com	
+   admin_pager=selenium.saikrishna@gmail.com
+:wq
+
+ vi /etc/nagios3/conf.d/contacts..
+ this defines the contacts for root
+    email    selenium.saikrishna@gmail.com
+  :wq
+
+
+vi /etc/nagios3/conf.d/monitored.cfg   (creating a new file)
+
+
+
+
+
+
+
+service  nagios3 restart
+
+
+ 
