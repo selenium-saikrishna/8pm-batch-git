@@ -1,3 +1,4 @@
+#changes done on the remote git hub server
 FROM ubuntu:14.04
 MAINTAINER Sarath "sarath@slashroot.in"
 RUN apt-get update
