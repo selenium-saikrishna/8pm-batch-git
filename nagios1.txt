@@ -1,3 +1,6 @@
+$$$$$$$$$$$$$$$$$$$$$$$$$$4
+
+
 to monitor another host
 vi /etc/nagios3/nagios.cfg
    admin_email=selenium.saikrishna@gmail.com	
